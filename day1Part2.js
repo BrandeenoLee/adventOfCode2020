@@ -1,5 +1,3 @@
-var input='';
-
 function threeSum(numbers, target) {
  
     for (var i = 0; i < numbers.length; i++) {
@@ -17,3 +15,7 @@ function threeSum(numbers, target) {
     };
 
 };
+
+console.log(threeSum([2010
+    ,1856
+    ,1905]);

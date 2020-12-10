@@ -1,4 +1,6 @@
-var input='';
+var input=`4-5 r: rrrjr
+9-10 x: pxcbpxxwkqjttx
+8-13 b: rjbbbbvgrbrfjx`;
 
 function pswrd (string) {
     var rules = string.split('\n');
